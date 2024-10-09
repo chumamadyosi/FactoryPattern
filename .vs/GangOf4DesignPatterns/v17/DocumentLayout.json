@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8C3DC2-47B6-4A35-98E4-5C141CF5A99A}|DesignPatterns\\FactoryPattern.csproj|c:\\users\\chumam\\source\\repos\\factorypattern\\designpatterns\\pamentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8C3DC2-47B6-4A35-98E4-5C141CF5A99A}|DesignPatterns\\FactoryPattern.csproj|solutionrelative:designpatterns\\pamentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8C3DC2-47B6-4A35-98E4-5C141CF5A99A}|DesignPatterns\\FactoryPattern.csproj|c:\\users\\chumam\\source\\repos\\factorypattern\\designpatterns\\credicardpament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8C3DC2-47B6-4A35-98E4-5C141CF5A99A}|DesignPatterns\\FactoryPattern.csproj|solutionrelative:designpatterns\\credicardpament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8C3DC2-47B6-4A35-98E4-5C141CF5A99A}|DesignPatterns\\FactoryPattern.csproj|c:\\users\\chumam\\source\\repos\\factorypattern\\designpatterns\\eft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8C3DC2-47B6-4A35-98E4-5C141CF5A99A}|DesignPatterns\\FactoryPattern.csproj|solutionrelative:designpatterns\\eft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8C3DC2-47B6-4A35-98E4-5C141CF5A99A}|DesignPatterns\\FactoryPattern.csproj|c:\\users\\chumam\\source\\repos\\factorypattern\\designpatterns\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8C3DC2-47B6-4A35-98E4-5C141CF5A99A}|DesignPatterns\\FactoryPattern.csproj|solutionrelative:designpatterns\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 699,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PamentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\DesignPatterns\\PamentFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\PamentFactory.cs",
+              "ToolTip": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\DesignPatterns\\PamentFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\PamentFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-07T18:27:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFT.cs",
+              "DocumentMoniker": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\DesignPatterns\\EFT.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\EFT.cs",
+              "ToolTip": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\DesignPatterns\\EFT.cs",
+              "RelativeToolTip": "DesignPatterns\\EFT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-07T18:25:29.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrediCardPament.cs",
+              "DocumentMoniker": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\DesignPatterns\\CrediCardPament.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\CrediCardPament.cs",
+              "ToolTip": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\DesignPatterns\\CrediCardPament.cs",
+              "RelativeToolTip": "DesignPatterns\\CrediCardPament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-07T18:20:31.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\DesignPatterns\\IPayment.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\IPayment.cs",
+              "ToolTip": "C:\\Users\\ChumaM\\source\\repos\\FactoryPattern\\DesignPatterns\\IPayment.cs",
+              "RelativeToolTip": "DesignPatterns\\IPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-07T18:20:30.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
